@@ -71,9 +71,18 @@ A virtual keyboard is a software component that allows the input of characters w
 - Use deep learning models like VGG 16 for more accurate results.
 - Making it more faster!
 
+## Contributing
+You are welcome to contribute :
+
+1. Fork it (https://github.com/roysaurabh1308/Virtual-Keyboard-3.0/fork)
+2. Create new branch : `git checkout -b new_feature`
+3. Commit your changes : `git commit -am 'Added new_feature'`
+4. Push to the branch : `git push origin new_feature`
+5. Submit a pull request !
 
 ## Author 
 **Thanks for going through this Repository! Have a nice day.**</br>
+**Have any querry? Feel free to contact me.**</br>
 </br>**Saurabh Roy**</br>
 #### **Contact** :`roysaurabh1308@gmail.com`
 <p align="left">
